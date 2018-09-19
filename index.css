@@ -1,17 +1,23 @@
 .logo-container {
-	margin-top: 20px;
-	width: 100%;
+	margin: 60px 50px 0px 0px;
 	display: flex;
 }
+.header-container {
+	display: flex;
+}
+#logo {
+	width: 100px;
+	height: 55px;
+}
 #lupulo-img-izq {
-	width: 200px;
-	height: 200px;
-	margin: 0px 0px 0px auto;
+	width: 50px;
+	height: 50px;
+	margin: 0px 0px 0px 100px;
 }
 
 #lupulo-img-der {
-	width: 200px;
-	height: 200px;
+	width: 50px;
+	height: 50px;
 	margin: 0px auto 0px 0px;
 	-moz-transform: scaleX(-1);
     -o-transform: scaleX(-1);
@@ -20,32 +26,19 @@
     filter: FlipH;
     -ms-filter: "FlipH";
 }
-
-/* 	CONTAINER  DESCRIPCION   */
-h1 {
-	text-align: left;
-	text-decoration: underline;
-	margin: 50px 0px 30px 0px;
+.datos-wrapper {
+	margin-top: 30px;
 }
-h2,h6 {
-	text-align: left;
+.datos-proforma-wrapper {
+	margin: 30px 0px 50px 100px;
+}
+.datos-container {
+	display: flex;
+}
+h5 {
+	margin-right: 10px;
 }
 .descripcion-container {
-	margin: 50px 0px 0px;
-	padding: 0px 150px;
+	margin: 0px 0px 0px 100px;
+	width: 75%;
 }
-.descripcion-unitaria-container {
-	text-align: center;
-}
-#hallertau-img {
-	margin: 30px auto;
-	height: 200px;
-	width: auto;
-}
-.table {
-	margin-bottom: 50px;
-}
-
-
-
-
