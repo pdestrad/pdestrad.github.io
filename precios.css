@@ -1,0 +1,57 @@
+body {
+	padding: 0px 20px;
+	font-family: "Andale Mono";
+}
+h6 {
+	margin: 0px;
+}
+.title-container {
+	width: 100%;
+	text-align: center;
+}
+.logo {
+	width: 250px;
+}
+.wrapper {
+	margin-top: -20px;
+	border-bottom: 1px solid gray;
+}
+.wrapper-title {
+	padding-bottom: 10px;
+	width: 100%;
+	border-bottom: 1px solid gray;
+	margin-bottom: 0px;
+}
+.container {
+	display: flex;
+}
+.sub-container {
+	display: flex;
+}
+.cerveza_container {
+	width: 50%;
+}
+.etiqueta-hallertau-img {
+	margin: -35px 0px 0px -30px;
+	height: 200px;
+}
+.etiqueta-oldboy-img {
+	height: 135px;
+}
+.contactos-container {
+	display: flex;
+}
+.contactos-subcontainer {
+	margin-left: 28px;
+	padding: 0px 0px 0px 28px;
+	border-left: 1px solid gray;
+}
+
+
+
+
+
+
+
+
+
